@@ -1,0 +1,22 @@
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\COM\Desktop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

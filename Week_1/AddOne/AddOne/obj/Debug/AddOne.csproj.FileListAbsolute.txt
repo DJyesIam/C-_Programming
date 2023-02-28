@@ -1,0 +1,22 @@
+C:\Users\COM\Desktop\AddOne\AddOne\bin\Debug\AddOne.exe.config
+C:\Users\COM\Desktop\AddOne\AddOne\bin\Debug\AddOne.exe
+C:\Users\COM\Desktop\AddOne\AddOne\bin\Debug\AddOne.pdb
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.csproj.AssemblyReference.cache
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.Form1.resources
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.Properties.Resources.resources
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.csproj.GenerateResource.cache
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.csproj.CoreCompileInputs.cache
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.exe
+C:\Users\COM\Desktop\AddOne\AddOne\obj\Debug\AddOne.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\bin\Debug\AddOne.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\bin\Debug\AddOne.exe
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\bin\Debug\AddOne.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.exe
+D:\3학년 1학기\PC기반제어프로그래밍\1주차\과제\AddOne\AddOne\obj\Debug\AddOne.pdb
