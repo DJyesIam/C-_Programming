@@ -1,0 +1,22 @@
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.AssemblyReference.cache
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+C:\Users\COM\Desktop\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\bin\Debug\BouncingBall.exe
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\bin\Debug\BouncingBall.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.exe
+D:\3학년 1학기\PC기반제어프로그래밍\2주차\과제\BouncingBall\BouncingBall\obj\Debug\BouncingBall.pdb
