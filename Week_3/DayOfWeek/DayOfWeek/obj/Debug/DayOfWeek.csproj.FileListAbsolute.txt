@@ -1,0 +1,11 @@
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.SuggestedBindingRedirects.cache
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.Form1.resources
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.Properties.Resources.resources
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.GenerateResource.cache
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\miner\source\repos\DayOfWeek\DayOfWeek\obj\Debug\DayOfWeek.pdb

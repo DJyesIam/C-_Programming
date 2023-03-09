@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\bin\Debug\TotalSec.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\bin\Debug\TotalSec.exe
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\bin\Debug\TotalSec.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.exe
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\TotalSec\TotalSec\obj\Debug\TotalSec.pdb

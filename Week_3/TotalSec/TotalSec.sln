@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotalSec", "TotalSec\TotalSec.csproj", "{B57674A4-5B82-4755-A60C-FEC781AC9A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57674A4-5B82-4755-A60C-FEC781AC9A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57674A4-5B82-4755-A60C-FEC781AC9A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57674A4-5B82-4755-A60C-FEC781AC9A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57674A4-5B82-4755-A60C-FEC781AC9A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2222B67-330B-4E7F-9154-74BBD8D79069}
+	EndGlobalSection
+EndGlobal

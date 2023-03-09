@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\bin\Debug\BitOperation.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\bin\Debug\BitOperation.exe
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\bin\Debug\BitOperation.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.exe
+D:\3학년 1학기\PC기반제어프로그래밍\3주차\과제\BitOperation\BitOperation\obj\Debug\BitOperation.pdb
