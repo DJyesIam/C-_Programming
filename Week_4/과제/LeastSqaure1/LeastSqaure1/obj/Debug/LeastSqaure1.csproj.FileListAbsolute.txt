@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\bin\Debug\LeastSqaure1.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\bin\Debug\LeastSqaure1.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\bin\Debug\LeastSqaure1.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeastSqaure1\LeastSqaure1\obj\Debug\LeastSqaure1.pdb

@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\bin\Debug\LeaseSquare.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\bin\Debug\LeaseSquare.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\bin\Debug\LeaseSquare.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\4주차\과제\LeaseSquare\LeaseSquare\obj\Debug\LeaseSquare.pdb
