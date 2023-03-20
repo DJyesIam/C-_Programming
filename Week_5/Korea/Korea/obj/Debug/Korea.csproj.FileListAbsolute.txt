@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\bin\Debug\Korea.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\bin\Debug\Korea.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\bin\Debug\Korea.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\5주차\Korea\Korea\obj\Debug\Korea.pdb
