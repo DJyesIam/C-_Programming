@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\Constructor\Constructor\obj\Debug\Constructor.pdb

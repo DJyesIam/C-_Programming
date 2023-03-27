@@ -1,0 +1,33 @@
+C:\Users\COM\Desktop\Linked\Linked\bin\Debug\Linked.exe.config
+C:\Users\COM\Desktop\Linked\Linked\bin\Debug\Linked.exe
+C:\Users\COM\Desktop\Linked\Linked\bin\Debug\Linked.pdb
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.csproj.AssemblyReference.cache
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.csproj.SuggestedBindingRedirects.cache
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.Form1.resources
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.Properties.Resources.resources
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.csproj.GenerateResource.cache
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.csproj.CoreCompileInputs.cache
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.exe
+C:\Users\COM\Desktop\Linked\Linked\obj\Debug\Linked.pdb
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.csproj.AssemblyReference.cache
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.csproj.SuggestedBindingRedirects.cache
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.Form1.resources
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.Properties.Resources.resources
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.csproj.GenerateResource.cache
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.csproj.CoreCompileInputs.cache
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.exe
+C:\Users\KSH\Desktop\LinkedList\Linked\obj\Debug\Linked.pdb
+C:\Users\KSH\Desktop\LinkedList\Linked\bin\Debug\Linked.exe.config
+C:\Users\KSH\Desktop\LinkedList\Linked\bin\Debug\Linked.exe
+C:\Users\KSH\Desktop\LinkedList\Linked\bin\Debug\Linked.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\bin\Debug\Linked.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\bin\Debug\Linked.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\bin\Debug\Linked.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\6주차\LinkedList\Linked\obj\Debug\Linked.pdb
