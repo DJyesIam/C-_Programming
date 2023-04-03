@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\bin\Debug\Human.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\bin\Debug\Human.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\bin\Debug\Human.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Human\Human\obj\Debug\Human.pdb

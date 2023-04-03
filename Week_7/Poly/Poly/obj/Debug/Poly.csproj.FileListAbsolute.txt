@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\bin\Debug\Poly.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\bin\Debug\Poly.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\bin\Debug\Poly.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\7주차\Poly\Poly\obj\Debug\Poly.pdb
