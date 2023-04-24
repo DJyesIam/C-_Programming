@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\bin\Debug\Circles.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\bin\Debug\Circles.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\bin\Debug\Circles.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\9주차\11_CP_Circles_폼만\Circles\obj\Debug\Circles.pdb
