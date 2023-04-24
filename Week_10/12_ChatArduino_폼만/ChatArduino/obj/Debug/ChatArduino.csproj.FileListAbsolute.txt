@@ -1,0 +1,31 @@
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\bin\Debug\ChatArduino.exe.config
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\bin\Debug\ChatArduino.exe
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\bin\Debug\ChatArduino.pdb
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\obj\Debug\ChatArduino.csprojAssemblyReference.cache
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\obj\Debug\ChatArduino.Form1.resources
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\obj\Debug\ChatArduino.Properties.Resources.resources
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\obj\Debug\ChatArduino.csproj.GenerateResource.cache
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\obj\Debug\ChatArduino.csproj.CoreCompileInputs.cache
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\obj\Debug\ChatArduino.exe
+C:\Users\KSH\Desktop\ChatArduino\ChatArduino\obj\Debug\ChatArduino.pdb
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.csprojAssemblyReference.cache
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.Form1.resources
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.Properties.Resources.resources
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.csproj.GenerateResource.cache
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.csproj.CoreCompileInputs.cache
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.exe
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.pdb
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\bin\Debug\ChatArduino.exe.config
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\bin\Debug\ChatArduino.exe
+C:\Users\KSH\Desktop\ChatArduino_폼만\ChatArduino\bin\Debug\ChatArduino.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\bin\Debug\ChatArduino.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\bin\Debug\ChatArduino.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\bin\Debug\ChatArduino.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\10주차\12_ChatArduino_폼만\ChatArduino\obj\Debug\ChatArduino.pdb
