@@ -1,0 +1,11 @@
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.csproj.AssemblyReference.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.csproj.SuggestedBindingRedirects.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.Form1.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.Properties.Resources.resources
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.csproj.GenerateResource.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.csproj.CoreCompileInputs.cache
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\bin\Debug\TalkOnly.exe.config
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\bin\Debug\TalkOnly.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\bin\Debug\TalkOnly.pdb
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.exe
+D:\3학년 1학기\PC기반제어프로그래밍\프로그램\11주차\1_3_TalkOnly_폼만\TalkOnly\obj\Debug\TalkOnly.pdb
